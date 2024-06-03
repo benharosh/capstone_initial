@@ -41,5 +41,6 @@ What suggestions do you have for next steps?
 #### Outline of project
 
 - [Link to capstone notebook](https://github.com/benharosh/capstone_initial/blob/master/capstone_intial.ipynb)
+- [Link to capstone notebook on GitHub Dev](https://github.dev/benharosh/capstone_initial/blob/master/capstone_intial.ipynb)
 
 ##### Contact and Further Information
