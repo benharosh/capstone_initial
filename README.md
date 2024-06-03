@@ -40,9 +40,6 @@ What suggestions do you have for next steps?
 
 #### Outline of project
 
-- [Link to notebook 1]()
-- [Link to notebook 2]()
-- [Link to notebook 3]()
-
+- [Link to capstone notebook](https://github.com/benharosh/capstone_initial/blob/master/capstone_intial.ipynb)
 
 ##### Contact and Further Information
